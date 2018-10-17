@@ -6,7 +6,15 @@ namespace Oefening_Team_MJJC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int getal1 = 500;
+            int getal2 = 450;
+
+            var som = getal1 + getal2;
+
+            Console.WriteLine("De oplossing is " + som + ".");
+            Console.ReadKey();
+                 
+
         }
     }
 }
