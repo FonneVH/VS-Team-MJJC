@@ -20,6 +20,17 @@ namespace Oefening_Team_MJJC
             var som2 = getal3 * getal4;
 
             Console.WriteLine("De oplossing is " + som2 + ".");
+
+
+
+            int getal5 = 5500;
+            int getal6 = 4525;
+
+            var verschil = getal5 - getal6;
+
+            Console.WriteLine("De oplossing is " + verschil + ".");
+
+
             Console.ReadKey();
         }
     }
