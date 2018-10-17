@@ -30,8 +30,18 @@ namespace Oefening_Team_MJJC
 
             Console.WriteLine("De oplossing is " + verschil + ".");
 
+			 Console.WriteLine("De oplossing is " + som2 + ".");
 
-            Console.ReadKey();
+
+            int getal7 = 10000;
+            int getal8 = 20000;
+
+            var verschil2 = getal7 - getal8;
+
+
+
+
+			Console.ReadKey();
         }
     }
 }
